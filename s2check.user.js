@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Pogo Tools
+// @name         Pogo Tools DEV
 // @id           s2check@alfonsoml
 // @category     Layer
 // @namespace    https://gitlab.com/AlfonsoML/pogo-s2/
