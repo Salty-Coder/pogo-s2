@@ -2,5 +2,5 @@
 A testing repo of Pogo S2 IITC Plugin
 
 
-##Current changes:
+## Current changes:
 Fixed exporting data on IOS - Copies localStorage data to clipboard.
